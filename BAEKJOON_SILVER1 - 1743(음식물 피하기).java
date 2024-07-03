@@ -1,8 +1,6 @@
-package progavoid;
-
 import java.util.*;
 
-public class ProgAvoid {
+public class Main {
     private static int size;
 
     public static void dfs(int x, int y, int n, int m, int[][] graph) {
