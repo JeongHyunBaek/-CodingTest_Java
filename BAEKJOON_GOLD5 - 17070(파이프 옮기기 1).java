@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Pipe {
+public class Main {
     private static int result = 0;
 
     public static void dfs(int n, int x, int y, int direction, int[][] graph) {
